@@ -21,6 +21,7 @@ public class MainActivity extends BaseMvpActivity{
 
     }
 //客户端测试
+//github端测试
     @Override
     protected int getLayoutId() {
         return R.layout.activity_main;
