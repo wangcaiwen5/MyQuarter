@@ -20,7 +20,7 @@ public class MainActivity extends BaseMvpActivity{
     protected void initView(Bundle savedInstanceState) {
 
     }
-
+//客户端测试
     @Override
     protected int getLayoutId() {
         return R.layout.activity_main;
