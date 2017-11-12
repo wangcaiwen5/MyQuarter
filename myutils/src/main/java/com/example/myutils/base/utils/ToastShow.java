@@ -14,11 +14,10 @@ public class ToastShow{
     private static String oldMsg;
     private static long oneTime = 0;
     private static long twoTime = 0;
-    
+
 
     public static void showToast(Context context, String s){
         if(toast==null){
-
             toast =Toast.makeText(context, s, Toast.LENGTH_SHORT);
             toast.show();
             oneTime=System.currentTimeMillis();
