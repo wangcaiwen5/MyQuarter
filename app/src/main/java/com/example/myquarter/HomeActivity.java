@@ -11,6 +11,9 @@ public class HomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_home);
         
         //我在服务端改了
+        
+        
+        //github更改
 
 
     }
