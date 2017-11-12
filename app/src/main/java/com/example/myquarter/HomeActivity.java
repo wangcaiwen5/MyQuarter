@@ -2,6 +2,8 @@ package com.example.myquarter;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Base64OutputStream;
+import android.widget.BaseAdapter;
 
 public class HomeActivity extends AppCompatActivity {
 
